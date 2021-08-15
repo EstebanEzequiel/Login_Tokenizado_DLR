@@ -1,1 +1,1 @@
-Autenticación, Validación de usuarios mediante Token mas consumo de los recursos devueltos
+Autenticación, Validación de usuarios mediante Token incluyendo el consumo de los recursos devueltos.
